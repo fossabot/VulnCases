@@ -1,4 +1,6 @@
 # VulnCases
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJanAhlert%2FVulnCases.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJanAhlert%2FVulnCases?ref=badge_shield)
+
 
 I like to write vulnerable cases, and learn the basics from different levels, from source, static, to dynamic analysis. Sometimes they are fun to exploit, too.
 
@@ -12,3 +14,6 @@ If you like my repository, you may also like:
 # License
 
 Please see [LICENSE](https://github.com/wchen-r7/VulnCases/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJanAhlert%2FVulnCases.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJanAhlert%2FVulnCases?ref=badge_large)
